@@ -1250,7 +1250,7 @@
     justify-content: center !important;
   }
   button#arc_show_calculator_button {
-    background-color: #313244; }
+    background-color: #313244 !important; }
   
   #img2img_script_container .gradio-group .block.gradio-accordion {
     border:1px solid rgb(119, 120, 146, 0.5) !important;
