@@ -1,0 +1,6 @@
+<div style="display: block;">
+        <a href="https://stablediffusion.vn" target="_blank">Phiên bản mod bởi © stablediffusion.vn</a>
+</div>
+<div class="versions">
+{versions}
+</div>
