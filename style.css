@@ -1240,7 +1240,7 @@ label.svelte-1p9xokt.svelte-1p9xokt.svelte-1p9xokt {
   height: calc(100vh - 120px);
   max-width: 90vw;
 }
-.gradio-container-3-28-1 .prose :last-child {
+.gradio-container-3-28-1 .prose :last-child,.gradio-container-3-31-0 .prose :last-child, .gradio-container-3-29-0 .prose :last-child {
   margin-bottom: 6px !important;
 }
 .thumbnails.svelte-1tkea93.svelte-1tkea93 {
