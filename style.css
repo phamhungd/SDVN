@@ -1240,7 +1240,7 @@ label.svelte-1p9xokt.svelte-1p9xokt.svelte-1p9xokt {
   height: calc(100vh - 120px);
   max-width: 90vw;
 }
-.gradio-container-3-28-1 .prose :last-child,.gradio-container-3-31-0 .prose :last-child, .gradio-container-3-29-0 .prose :last-child {
+.gradio-container-3-28-1 .prose :last-child,.gradio-container-3-31-0 .prose :last-child, .gradio-container-3-29-0 .prose :last-child, .gradio-container-3-32-0 .prose :last-child {
   margin-bottom: 6px !important;
 }
 .thumbnails.svelte-1tkea93.svelte-1tkea93 {
@@ -1259,4 +1259,21 @@ button#arc_show_calculator_button {
 #mov2mov_script_container .gradio-group .block.gradio-accordion {
   border:1px solid rgb(119, 120, 146, 0.5) !important;
   border-radius: 5px !important;
+}
+.sd-footer {
+  display: block !important;;
+}
+.sd-footer button {
+  background-color: rgb(54, 122, 225);
+  padding: 5px 30px;
+  margin:10px 5px;
+  color:white !important;;
+  border-radius: 40px;
+ }
+.versions {
+  background-color: rgb(54, 122, 225);
+  padding: 5px 30px;
+  margin:5px 5px;
+  color:white !important;;
+  border-radius: 40px;
 }
